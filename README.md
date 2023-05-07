@@ -6,8 +6,10 @@
 
 <p align="center"> 
 <a href="https://linkedin.com/in/ola-ayman-elmaghraby-4b891221a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ola" height="30" width="40" /></a>
-<a href="linkedin.com/in/ola-ayman-elmaghraby-4b891221a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ola" height="30" width="40" /></a>
+<a href="olaelmghraby@gmail.com" target="blank"><img align="center" src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" alt="ola" width="60" /></a>
+<a href="ola.maghraby00@eng-st.cu.edu.eg" target="blank"><img align="center" src="https://media.giphy.com/media/mRqMnL2Yp4Z9apds6Q/giphy.gif" alt="ola" width="90" /></a>
 </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=olaayman&style=flat-square&color=blue" align="center" alt=""/>
 
 
@@ -17,14 +19,15 @@
 
 
 <!--
+https://media.giphy.com/media/mRqMnL2Yp4Z9apds6Q/giphy.gif
 **olaayman/olaayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on **my graduation project which is a platform using deep learning approaches to automate cardiac images segmentation and image registration to visualize myocardial scars in cooperation with Aswan Heart Centre and research, Magdi Yacoub Foundation**
+- 🌱 I’m currently learning **deep learning, image processing and visualization**
+- ⚡ Fun fact: **I have too many hobbies, Enjoy learning languages (human languages😄)**
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
